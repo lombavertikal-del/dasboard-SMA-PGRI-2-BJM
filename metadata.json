@@ -1,0 +1,8 @@
+{
+  "name": "VERTIKAL SMAGRIDA — SMA PGRI 2 Banjarmasin",
+  "description": "Dashboard interaktif analisis survei kebiasaan siswa SMA PGRI 2 Banjarmasin (765 pengisian, 308 siswa) lengkap dengan grafik, rata-rata, modus, pilihan paling sedikit, pencarian siswa, dan rekomendasi tindakan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
